@@ -1,5 +1,6 @@
 # finally_1
-Hi everyone! enjoy using the code for my application of appshop.
+Hi everyone! enjoy using the code for my application of my appshop.
+![phone_mockup_1](https://github.com/user-attachments/assets/1dec645b-1683-4815-810c-646da9b721e1)
 A new Flutter project.
 
 ## Getting Started

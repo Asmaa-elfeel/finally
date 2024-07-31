@@ -1,5 +1,5 @@
 # finally_1
-
+Hi everyone! enjoy using the code for my application of appshop.
 A new Flutter project.
 
 ## Getting Started
